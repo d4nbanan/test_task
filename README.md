@@ -1,5 +1,5 @@
 # This is a test task.
-### `Technology stack: React(TypeScript), Express(JavaScript)`
+### `Technology stack: React(TypeScript), NodeJS Express(JavaScript)`
 
 ### `Implemented authorization function, getting a list of users and getting an individual user`
 
