@@ -1,3 +1,8 @@
+### `This is a test task.
+Technology stack: React(TypeScript), Express(JavaScript)
+
+Implemented authorization function, getting a list of users and getting an individual user`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
